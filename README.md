@@ -15,7 +15,7 @@ I recommend not looking at the code until you have completed it yourself. If how
 - rdx1qspkn5h6ynlq3dk2kpvwnmlj9kcvd8vd2csrkcw2pzasc9yy34tckuqmvc6l4
 
 ## License
-Feel free to share and use. Thank you to Rust the Radix DeFi Community for guiding me down this path.
+Feel free to share and use. Thank you to Rust and the Radix DeFi Community for guiding me down this path.
 
 ## Contact
 If you would like to work together, please email me at errollgnargnar@gmail.com
