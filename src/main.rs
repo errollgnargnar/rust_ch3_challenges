@@ -48,7 +48,7 @@ fn twelve_days_xmas() {
         gift_num += 1;
         while gift_num > 0 {
             if gift_num-1 == 0 && n != 0 {
-                println!("and a {}", gifts[gift_num-1]);
+                println!("and {}", gifts[gift_num-1]);
             } else {
                 println!("{}", gifts[gift_num-1]);
             }
