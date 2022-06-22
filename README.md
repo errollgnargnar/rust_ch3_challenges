@@ -5,7 +5,7 @@ This code contains solutions to the 3 challenges at the end of Chapter 3 in the 
 The 3 challenges are seperated into 3 functions which are called in fn main();
 
 ## Output
-![terminal output](https://github.com/errollgnargnar/rust_ch3_challenges/blob/main/Screenshot%20from%202022-06-22%2000-01-29.png)
+![terminal output](https://github.com/errollgnargnar/rust_ch3_challenges/blob/main/ch3_challenges_output.png)
 
 ## Disclaimer
 I recommend not looking at the code until you have completed the challenges yourself. If however you have pulled the last straw and think you have tried everything, then take a look at this code and then go back to trying it again until you get it.
