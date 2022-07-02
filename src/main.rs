@@ -16,22 +16,14 @@ fn convert_temp(degrees: f32, scale: char) {
 }
 
 fn gen_nth_fib(n: u32) {
-    let mut counter: u32 = 0;
-    let mut preva: u32 = 0;
-    let mut prevb: u32 = 0;
-    let mut current: u32 = 0;
+    let mut a: u32 = 0;
+    let mut b: u32 = 1;
+    let mut counter = 0;
     while counter < n {
-        if counter == 0 {
-            println!("{}", current);
-            preva = current;
-            current += 1;
-            prevb = current;
-        } else {
-            println!("{}", current);
-            current = preva + prevb;
-            preva = prevb;
-            prevb = current;
-        }
+        println!("{}", a);
+        let prev = a;
+        a = b;
+        b = a + prev;
         counter += 1;
     }
 }
